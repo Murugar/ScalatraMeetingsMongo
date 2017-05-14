@@ -1,0 +1,2 @@
+# ScalatraMeetingsMongo
+Scalatra Mongo
